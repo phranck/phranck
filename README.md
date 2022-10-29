@@ -17,8 +17,6 @@ Currently, this concerns the following projects:
 
 🕸 - [Website](https://woodbytes.me)  
 🐦 - [Twitter](https://twitter.com_Woodbytes_)  
-🐘 - [Mastodon](https://chaos.social/@phranck)  
+🐘 - <a rel="me" href="https://chaos.social/@phranck">Mastodon</a>  
 📸 - [Pixelfed](https://pixelfed.social/i/web/profile/424574125728772845)  
 📸 - [Instagram](https://www.instagram.com/woodbytes/)
-
-<a rel="me" href="https://chaos.social/@phranck">Mastodon</a>
