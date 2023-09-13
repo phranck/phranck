@@ -1,3 +1,5 @@
+![Metrics](https://metrics.lecoq.io/?template=classic&base.metadata=0&isocalendar=1&habits=1&stars=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=true&habits.charts.type=graph&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&config.timezone=Europe%2FVienna)
+
 ### Heya, I'm Frank 👋
 
 I am a Swift, SwiftUI and Objective-C software developer in a small Vienna-based startup called [Cadrage](https://www.cadrage.app). We produce software for filmmakers and for the film industry.
