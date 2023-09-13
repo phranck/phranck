@@ -28,20 +28,14 @@ jobs:
           template: classic
           base: header, activity, community, repositories
           config_timezone: Europe/Vienna
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: graph
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          plugin_stargazers: yes
-          plugin_stargazers_charts: yes
-          plugin_stargazers_charts_type: classic
-          plugin_stargazers_days: 14
-          plugin_stargazers_worldmap: yes
+          plugin_isocalendar_duration: full-year
+          plugin_notable: yes
+          plugin_notable_from: organization
+          plugin_notable_types: commit
+          plugin_people: yes
+          plugin_people_limit: 24
+          plugin_people_size: 28
+          plugin_people_types: followers, following
           plugin_stars: yes
           plugin_stars_limit: 4
