@@ -44,9 +44,5 @@ jobs:
           plugin_screenshot_selector: body
           plugin_screenshot_title: Screenshot
           plugin_screenshot_url: https://phranck.dev
-          plugin_screenshot_viewport: {
-            "width": 1280,
-            "height": 1280
-          }
           plugin_stars: yes
           plugin_stars_limit: 4
